@@ -1,17 +1,17 @@
 ---
 layout: single
-title: Conceptos básicos de Explotación en Windows
-excerpt: "."
-date: 2024-09-22
+title: Conceptos básicos de Explotación de Windows
+excerpt: "Hackear Windows suele ser una tarea abrumadora. Conozca los conceptos básicos de Windows y las vulnerabilidades de Active Directory."
+date: 2024-10-16
 classes: wide
 header:
-  teaser: assets/images/Explotacion-Redes/Explotacion.png
+  teaser: assets/images/Explotacion-Windows/Windows.jpg
   teaser_home_page: true
 categories:
   - Lectura
 tags:
-  - Redes
+  - Explotación Windows
 ---
 
-<img src="assets/images/Explotacion-Redes/Portada.jpg">
+![Portada](assets/images/Explotacion-Windows/Portada.jpeg)
 

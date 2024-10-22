@@ -1,11 +1,11 @@
 ---
 layout: single
 title: Emulación de Amenazas
-excerpt: "."
-date: 2024-09-17
+excerpt: "La mejor manera de entender cómo trabajan los atacantes es adquirir experiencia práctica con sus técnicas."
+date: 2024-10-11
 classes: wide
 header:
-  teaser: assets/images/Emulacion-Amenazas/Amenaza.png
+  teaser: assets/images/Emulacion-Amenazas/Emulacion.png
   teaser_home_page: true
 categories:
   - Lectura
@@ -13,4 +13,5 @@ tags:
   - Amenazas
 ---
 
-<img src="assets/images/Emulacion-Amenazas/Portada.jpeg">
+![Portada](assets/images/Emulacion-Amenazas/Portada.jpg)
+

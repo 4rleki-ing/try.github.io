@@ -1,17 +1,17 @@
 ---
 layout: single
 title: Criptografía
-excerpt: "."
-date: 2024-09-23
+excerpt: "La criptografía es esencial para la seguridad. Descubra cómo se utiliza para preservar la integridad y la confidencialidad de la información ..."
+date: 2024-10-17
 classes: wide
 header:
-  teaser: assets/images/Explotacion-Redes/Explotacion.png
+  teaser: assets/images/Criptografia/Cripto.png
   teaser_home_page: true
 categories:
   - Lectura
 tags:
-  - Redes
+  - Criptografía
 ---
 
-<img src="assets/images/Explotacion-Redes/Portada.jpg">
+![Portada](assets/images/Criptografia/Portada.jpg)
 

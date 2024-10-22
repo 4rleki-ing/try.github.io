@@ -1,17 +1,18 @@
 ---
 layout: single
 title: Respuesta a Incidentes y Análisis Forense
-excerpt: "."
-date: 2024-09-16
+excerpt: "Los incidentes son inevitables. Aprenda a identificarlos y a responder ante ellos."
+date: 2024-10-10
 classes: wide
 header:
-  teaser: assets/images/Respuesta-Incidentes/Respuesta.jpg
+  teaser: assets/images/Respuesta-Incidentes/Incidente.jpeg
   teaser_home_page: true
 categories:
   - Lectura
 tags:
-  - Redes
+  - Respuesta a Incidente
+  - Análisis Forense
 ---
 
-<img src="assets/images/Respuesta-Incidentes/Portada.jpg">
+![Portada](assets/images/Respuesta-Incidentes/Portada.jpg)
 

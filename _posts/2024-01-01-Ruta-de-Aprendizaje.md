@@ -2,19 +2,20 @@
 layout: single
 title: Hoja de Ruta de Aprendizaje
 excerpt: "Desde los principios fundamentales hasta las técnicas avanzadas, esta hoja de ruta proporciona pasos claros y recursos esenciales para ayudarle a desarrollar un conjunto sólido de habilidades."
-date: 2024-09-27
+date: 2024-10-21
 classes: wide
 header:
-  teaser: assets/images/Ruta-Aprendizaje/Portada.jpg
+  teaser: assets/images/Ruta-Aprendizaje/Ruta.jpeg
   teaser_home_page: true
 categories:
   - TryHackme
+  - Lectura
 tags:
   - Módulos
   - Salas
 ---
 
-![Portada](assets/images/Ruta-Aprendizaje/Aprende.png)
+![Portada](assets/images/Ruta-Aprendizaje/Portada.jpg)
 
 ## Modulos
 - [Fundamentos de Linux]()
