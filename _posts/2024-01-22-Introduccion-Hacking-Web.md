@@ -5,7 +5,7 @@ excerpt: "Practique, aprenda y aproveche algunas de las vulnerabilidades de apli
 date: 2024-09-30
 classes: wide
 header:
-  teaser: assets/images/Introduccion-HAcking-Web/Hacking.jpg
+  teaser: https://tryhackme.4kiing.net/assets/images/Introduccion-HAcking-Web/Hacking.jpg
   teaser_home_page: true
 categories:
   - Lectura
@@ -13,5 +13,5 @@ tags:
   - Hacking Web
 ---
 
-![Portada](assets/images/Introduccion-Hacking-Web/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Introduccion-Hacking-Web/Portada.jpg)
 

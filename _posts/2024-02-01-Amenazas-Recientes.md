@@ -5,7 +5,7 @@ excerpt: "Conozca las √∫ltimas amenazas de la industria. Obtenga experiencia pr√
 date: 2024-09-21
 classes: wide
 header:
-  teaser: assets/images/Amenazas-Recientes/Amenaza.jpeg
+  teaser: https://tryhackme.4kiing.net/assets/images/Amenazas-Recientes/Amenaza.jpeg
   teaser_home_page: true
 categories:
   - Lectura
@@ -13,4 +13,4 @@ tags:
   - Amenazas recientes
 ---
 
-![Portada](assets/images/Amenazas-Recientes/Portada.png)
+![Portada](https://tryhackme.4kiing.net/assets/images/Amenazas-Recientes/Portada.png)

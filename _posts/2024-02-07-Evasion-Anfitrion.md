@@ -5,7 +5,7 @@ excerpt: "Comprenda las técnicas detrás de la seguridad basada en host y evite
 date: 2024-09-15
 classes: wide
 header:
-  teaser: assets/images/Evasion-Anfitrion/Anfitrion.jpeg
+  teaser: https://tryhackme.4kiing.net/assets/images/Evasion-Anfitrion/Anfitrion.jpeg
   teaser_home_page: true
 categories:
   - Lectura
@@ -13,4 +13,4 @@ tags:
   - Evasión Host
 ---
 
-![Portada](assets/images/Evasion-Anfitrion/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Evasion-Anfitrion/Portada.jpg)

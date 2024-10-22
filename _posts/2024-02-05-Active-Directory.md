@@ -5,7 +5,7 @@ excerpt: "Aprenda y explote las redes de Active Directory a través de problemas
 date: 2024-09-17
 classes: wide
 header:
-  teaser: assets/images/Active-Directory/Directory.png
+  teaser: https://tryhackme.4kiing.net/assets/images/Active-Directory/Directory.png
   teaser_home_page: true
 categories:
   - Lectura
@@ -13,4 +13,4 @@ tags:
   - Active Directory
 ---
 
-![Portada](assets/images/Active-Directory/Portada.png)
+![Portada](https://tryhackme.4kiing.net/assets/images/Active-Directory/Portada.png)

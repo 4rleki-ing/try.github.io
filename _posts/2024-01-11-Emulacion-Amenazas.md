@@ -5,7 +5,7 @@ excerpt: "La mejor manera de entender cómo trabajan los atacantes es adquirir e
 date: 2024-10-11
 classes: wide
 header:
-  teaser: assets/images/Emulacion-Amenazas/Emulacion.png
+  teaser: https://tryhackme.4kiing.net/assets/images/Emulacion-Amenazas/Emulacion.png
   teaser_home_page: true
 categories:
   - Lectura

@@ -5,7 +5,7 @@ excerpt: "Burp Suite es la herramienta estándar de la industria para hackear ap
 date: 2024-10-03
 classes: wide
 header:
-  teaser: assets/images/BurpSuite/BurpSuite.png
+  teaser: https://tryhackme.4kiing.net/assets/images/BurpSuite/BurpSuite.png
   teaser_home_page: true
 categories:
   - Lectura

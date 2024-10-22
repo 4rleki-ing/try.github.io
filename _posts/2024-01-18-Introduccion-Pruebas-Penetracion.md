@@ -5,7 +5,7 @@ excerpt: "Comprenda qué implica una prueba de penetración, incluidas las técn
 date: 2024-10-04
 classes: wide
 header:
-  teaser: assets/images/Pruebas-Penetracion/Prueba.jpeg
+  teaser: https://tryhackme.4kiing.net/assets/images/Pruebas-Penetracion/Prueba.jpeg
   teaser_home_page: true
 categories:
   - Lectura

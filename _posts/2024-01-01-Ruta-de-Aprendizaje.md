@@ -5,7 +5,7 @@ excerpt: "Desde los principios fundamentales hasta las técnicas avanzadas, esta
 date: 2024-10-21
 classes: wide
 header:
-  teaser: Ruta-Aprendizaje/Ruta.jpeg
+  teaser: https://tryhackme.4kiing.net/assets/images/Ruta-Aprendizaje/Ruta.jpeg
   teaser_home_page: true
 categories:
   - TryHackme

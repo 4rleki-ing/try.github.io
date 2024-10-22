@@ -5,7 +5,7 @@ excerpt: "Aprenda a configurar y utilizar herramientas para garantizar que la ac
 date: 2024-10-12
 classes: wide
 header:
-  teaser: assets/images/Seguridad-Monitoreo/Monitoreo.jpg
+  teaser: https://tryhackme.4kiing.net/assets/images/Seguridad-Monitoreo/Monitoreo.jpg
   teaser_home_page: true
 categories:
   - Lectura

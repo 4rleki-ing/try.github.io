@@ -5,7 +5,7 @@ excerpt: "Aprenda técnicas fundamentales que le permitirán elevar los privileg
 date: 2024-09-27
 classes: wide
 header:
-  teaser: assets/images/Escalar-Privilegios/Privilegio.jpeg
+  teaser: https://tryhackme.4kiing.net/assets/images/Escalar-Privilegios/Privilegio.jpeg
   teaser_home_page: true
 categories:
   - Lectura
@@ -14,5 +14,5 @@ tags:
   - Escalar Privilegios en Linux
 ---
 
-![Portada](assets/images/Escalar-Privilegios/Portada.png)
+![Portada](https://tryhackme.4kiing.net/assets/images/Escalar-Privilegios/Portada.png)
 

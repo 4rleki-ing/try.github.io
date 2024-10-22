@@ -5,7 +5,7 @@ excerpt: "Familiarícese con las habilidades, los métodos de investigación y l
 date: 2024-10-02
 classes: wide
 header:
-  teaser: assets/images/Investigacion-Vulnerabilidad/Investigacion.jpg
+  teaser: https://tryhackme.4kiing.net/assets/images/Investigacion-Vulnerabilidad/Investigacion.jpg
   teaser_home_page: true
 categories:
   - Lectura
@@ -13,5 +13,5 @@ tags:
   - Investigación de Vulnerabilidades
 ---
 
-![Portada](assets/images/Investigacion-Vulnerabilidad/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Investigacion-Vulnerabilidad/Portada.jpg)
 

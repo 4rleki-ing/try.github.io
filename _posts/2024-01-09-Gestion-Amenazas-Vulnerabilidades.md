@@ -5,7 +5,7 @@ excerpt: "Identifique cómo los atacantes están desarrollando sus técnicas par
 date: 2024-10-13
 classes: wide
 header:
-  teaser: assets/images/Gestion-Amenazas/Amenaza.png
+  teaser: https://tryhackme.4kiing.net/assets/images/Gestion-Amenazas/Amenaza.png
   teaser_home_page: true
 categories:
   - Lectura

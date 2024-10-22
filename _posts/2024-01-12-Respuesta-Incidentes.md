@@ -5,7 +5,7 @@ excerpt: "Los incidentes son inevitables. Aprenda a identificarlos y a responder
 date: 2024-10-10
 classes: wide
 header:
-  teaser: assets/images/Respuesta-Incidentes/Incidente.jpeg
+  teaser: https://tryhackme.4kiing.net/assets/images/Respuesta-Incidentes/Incidente.jpeg
   teaser_home_page: true
 categories:
   - Lectura

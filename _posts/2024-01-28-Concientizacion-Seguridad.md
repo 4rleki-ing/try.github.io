@@ -5,7 +5,7 @@ excerpt: "Obtenga más información sobre cuestiones cibernéticas y protéjase 
 date: 2024-09-24
 classes: wide
 header:
-  teaser: assets/images/Concientizacion-Seguridad/Seguridad.jpeg
+  teaser: https://tryhackme.4kiing.net/assets/images/Concientizacion-Seguridad/Seguridad.jpeg
   teaser_home_page: true
 categories:
   - Lectura
@@ -13,4 +13,4 @@ tags:
   - Concientización sobre la seguridad
 ---
 
-![Portada](assets/images/Concientizacion-Seguridad/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Concientizacion-Seguridad/Portada.jpg)

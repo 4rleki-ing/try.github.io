@@ -5,7 +5,7 @@ excerpt: "Aprenda los conceptos básicos del reconocimiento pasivo y activo de r
 date: 2024-09-29
 classes: wide
 header:
-  teaser: assets/images/Seguridad-Red/Red.png
+  teaser: https://tryhackme.4kiing.net/assets/images/Seguridad-Red/Red.png
   teaser_home_page: true
 categories:
   - Lectura
@@ -13,5 +13,5 @@ tags:
   - Seguridad de red
 ---
 
-![Portada](assets/images/Seguridad-Red/Portada.png)
+![Portada](https://tryhackme.4kiing.net/assets/images/Seguridad-Red/Portada.png)
 

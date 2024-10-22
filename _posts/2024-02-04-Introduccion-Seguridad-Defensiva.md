@@ -5,7 +5,7 @@ excerpt: "Aprenda seguridad defensiva utilizando análisis forense digital en un
 date: 2024-09-18
 classes: wide
 header:
-  teaser: assets/images/Seguridad-Defensiva/Defensa.jpg
+  teaser: https://tryhackme.4kiing.net/assets/images/Seguridad-Defensiva/Defensa.jpg
   teaser_home_page: true
 categories:
   - Lectura
@@ -13,4 +13,4 @@ tags:
   - Seguridad Defensiva
 ---
 
-![Portada](assets/images/Seguridad-Defensiva/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Seguridad-Defensiva/Portada.jpg)

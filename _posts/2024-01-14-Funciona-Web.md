@@ -5,7 +5,7 @@ excerpt: "Para convertirse en un mejor hacker es vital comprender las funciones 
 date: 2024-10-08
 classes: wide
 header:
-  teaser: assets/images/Funciona-Web/Web.png
+  teaser: https://tryhackme.4kiing.net/assets/images/Funciona-Web/Web.png
   teaser_home_page: true
 categories:
   - Lectura

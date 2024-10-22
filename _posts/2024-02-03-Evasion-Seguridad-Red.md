@@ -5,7 +5,7 @@ excerpt: "Aprenda cómo eludir y evadir diferentes soluciones de seguridad utili
 date: 2024-09-19
 classes: wide
 header:
-  teaser: assets/images/Evasion-Seguridad/Red.jpg
+  teaser: https://tryhackme.4kiing.net/assets/images/Evasion-Seguridad/Red.jpg
   teaser_home_page: true
 categories:
   - Lectura
@@ -13,4 +13,4 @@ tags:
   - Evasión de Seguridad de red
 ---
 
-![Portada](assets/images/Evasion-Seguridad/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Evasion-Seguridad/Portada.jpg)

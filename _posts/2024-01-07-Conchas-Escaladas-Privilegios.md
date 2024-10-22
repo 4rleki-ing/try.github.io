@@ -5,7 +5,7 @@ excerpt: "Una vez que tenga acceso inicial a una máquina, aprenda cómo ampliar
 date: 2024-10-15
 classes: wide
 header:
-  teaser: assets/images/Escalada-Privilegios/Privilegio.jpg
+  teaser: https://tryhackme.4kiing.net/assets/images/Escalada-Privilegios/Privilegio.jpg
   teaser_home_page: true
 categories:
   - Lectura

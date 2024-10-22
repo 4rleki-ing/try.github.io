@@ -5,7 +5,7 @@ excerpt: "Comprenda los principales problemas de seguridad de las aplicaciones w
 date: 2024-10-18
 classes: wide
 header:
-  teaser: assets/images/Pirateria-Web/Pirateria.png
+  teaser: https://tryhackme.4kiing.net/assets/images/Pirateria-Web/Pirateria.png
   teaser_home_page: true
 categories:
   - Lectura

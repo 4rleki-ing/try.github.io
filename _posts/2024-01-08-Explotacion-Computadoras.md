@@ -5,7 +5,7 @@ excerpt: "Fortalezca sus habilidades explotando una variedad de aplicaciones y s
 date: 2024-10-14
 classes: wide
 header:
-  teaser: assets/images/Explotacion-Computadoras/Explotacion.jpeg
+  teaser: https://tryhackme.4kiing.net/assets/images/Explotacion-Computadoras/Explotacion.jpeg
   teaser_home_page: true
 categories:
   - Lectura

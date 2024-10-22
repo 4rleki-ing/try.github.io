@@ -20,21 +20,20 @@ title                    : "Cyber4rlekiing | Ciberseguridad"
 title_separator          : "-"
 name                     : "4rlekiing"
 description              : "Artículos sobre ciberseguridad e investigaciones"
-url                      : "https://www.4kiing.net/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://tryhackme.4kiing.net/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "4rleki-ing/4rleki-ing.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 #logo                     : "/assets/images/masthead.png"
-teaser                   : "https://tryhackme.4kiing.net/assets/images/" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
-  disqus:
+  disqus                 :
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
+  discourse              :
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+  facebook               : # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"

@@ -5,7 +5,7 @@ excerpt: "Hackear Windows suele ser una tarea abrumadora. Conozca los conceptos 
 date: 2024-10-16
 classes: wide
 header:
-  teaser: assets/images/Explotacion-Windows/Windows.jpg
+  teaser: https://tryhackme.4kiing.net/assets/images/Explotacion-Windows/Windows.jpg
   teaser_home_page: true
 categories:
   - Lectura

@@ -5,7 +5,7 @@ excerpt: "Comprenda qué implica la seguridad ofensiva y practique cómo ingresa
 date: 2024-09-22
 classes: wide
 header:
-  teaser: assets/images/Seguridad-Ofensiva/Ofensivo.png
+  teaser: https://tryhackme.4kiing.net/assets/images/Seguridad-Ofensiva/Ofensivo.png
   teaser_home_page: true
 categories:
   - Lectura
@@ -13,4 +13,4 @@ tags:
   - Seguridad Ofensiva
 ---
 
-![Portada](assets/images/Seguridad-Ofensiva/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Seguridad-Ofensiva/Portada.jpg)

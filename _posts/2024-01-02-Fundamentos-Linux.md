@@ -5,7 +5,7 @@ excerpt: "Muchos servidores y herramientas de seguridad utilizan Linux. Aprenda 
 date: 2024-10-20
 classes: wide
 header:
-  teaser: assets/images/Linux/Fundamentos/Tux.png
+  teaser: https://tryhackme.4kiing.net/assets/images/Linux/Fundamentos/Tux.png
   teaser_home_page: true
 categories:
   - Lectura

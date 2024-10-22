@@ -5,7 +5,7 @@ excerpt: "Obtenga acceso práctico a Windows y sus controles de seguridad. Estos
 date: 2024-10-06
 classes: wide
 header:
-  teaser: assets/images/Fundamentos-Windows/Win.jpeg
+  teaser: https://tryhackme.4kiing.net/assets/images/Fundamentos-Windows/Win.jpeg
   teaser_home_page: true
 categories:
   - Lectura

@@ -5,7 +5,7 @@ excerpt: "Aprenda los conceptos básicos de cómo las computadoras se comunican 
 date: 2024-10-07
 classes: wide
 header:
-  teaser: assets/images/Fundamentos-Red/Red.png
+  teaser: https://tryhackme.4kiing.net/assets/images/Fundamentos-Red/Red.png
   teaser_home_page: true
 categories:
   - Lectura
