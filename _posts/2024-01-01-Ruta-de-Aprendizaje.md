@@ -15,7 +15,7 @@ tags:
   - Salas
 ---
 
-![Portada](assets/images/Ruta-Aprendizaje/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Ruta-Aprendizaje/Portada.jpg)
 
 ## Modulos
 - [Fundamentos de Linux]()
