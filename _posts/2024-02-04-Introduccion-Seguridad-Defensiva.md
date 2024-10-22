@@ -10,7 +10,7 @@ header:
 categories:
   - Lectura
 tags:
-  - Evasión de Seguridad de red
+  - Seguridad Defensiva
 ---
 
 ![Portada](assets/images/Seguridad-Defensiva/Portada.jpg)
