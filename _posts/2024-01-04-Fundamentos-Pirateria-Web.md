@@ -13,5 +13,5 @@ tags:
   - Piratería Web
 ---
 
-![Portada](assets/images/Pirateria-Web/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Pirateria-Web/Portada.jpg)
 

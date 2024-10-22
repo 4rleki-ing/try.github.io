@@ -13,5 +13,5 @@ tags:
   - Explotación de redes
 ---
 
-![Portada](assets/images/Explotacion-Redes/Portada.jpeg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Explotacion-Redes/Portada.jpeg)
 

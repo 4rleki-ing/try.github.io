@@ -13,5 +13,5 @@ tags:
   - Fundamentos de la red
 ---
 
-![Portada](assets/images/Fundamentos-Red/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Fundamentos-Red/Portada.jpg)
 

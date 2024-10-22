@@ -14,5 +14,5 @@ tags:
   - Monitoreo
 ---
 
-![Portada](assets/images/Seguridad-Monitoreo/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Seguridad-Monitoreo/Portada.jpg)
 

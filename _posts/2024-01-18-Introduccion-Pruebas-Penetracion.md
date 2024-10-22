@@ -13,5 +13,5 @@ tags:
   - Pruebas de Penetración
 ---
 
-![Portada](assets/images/Pruebas-Penetracion/Portada.png)
+![Portada](https://tryhackme.4kiing.net/assets/images/Pruebas-Penetracion/Portada.png)
 

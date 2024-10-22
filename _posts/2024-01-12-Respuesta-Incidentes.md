@@ -14,5 +14,5 @@ tags:
   - Análisis Forense
 ---
 
-![Portada](assets/images/Respuesta-Incidentes/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Respuesta-Incidentes/Portada.jpg)
 

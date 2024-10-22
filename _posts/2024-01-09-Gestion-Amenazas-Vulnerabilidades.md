@@ -14,5 +14,5 @@ tags:
   - Vulnerabilidades
 ---
 
-![Portada](assets/images/Gestion-Amenazas/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Gestion-Amenazas/Portada.jpg)
 

@@ -13,5 +13,5 @@ tags:
   - BurpSuite
 ---
 
-![Portada](assets/images/BurpSuite/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/BurpSuite/Portada.jpg)
 

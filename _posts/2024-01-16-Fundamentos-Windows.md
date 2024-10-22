@@ -13,5 +13,5 @@ tags:
   - Fundamentos de Windows
 ---
 
-![Portada](assets/images/Fundamentos-Windows/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Fundamentos-Windows/Portada.jpg)
 

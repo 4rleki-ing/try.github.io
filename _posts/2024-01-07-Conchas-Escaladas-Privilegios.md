@@ -13,5 +13,5 @@ tags:
   - Escaladas de Privilegios
 ---
 
-![Portada](assets/images/Escalada-Privilegios/Portada.jpeg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Escalada-Privilegios/Portada.jpeg)
 

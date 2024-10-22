@@ -13,5 +13,5 @@ tags:
   - Explotación Windows
 ---
 
-![Portada](assets/images/Explotacion-Windows/Portada.jpeg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Explotacion-Windows/Portada.jpeg)
 

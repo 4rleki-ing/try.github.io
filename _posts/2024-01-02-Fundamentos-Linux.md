@@ -13,7 +13,7 @@ tags:
   - Linux
 ---
 
-![Portada](assets/images/Linux/Fundamentos/Portada.png)
+![Portada](https://tryhackme.4kiing.net/assets/images/Linux/Fundamentos/Portada.png)
 
 `Linux` es uno de los principales sistemas operativos y se utiliza mucho en organizaciones de todo el mundo. *Aprender a utilizar Linux* es una competencia fundamental y ayudará en su aventura de hacking no sólo a utilizar herramientas de seguridad basadas en este sistema operativo, sino también a utilizar y explotar el sistema operativo como tal. Este módulo se centrará en que se sienta cómodo utilizando Linux.
 

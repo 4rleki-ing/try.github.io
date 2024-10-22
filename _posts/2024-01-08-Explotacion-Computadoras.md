@@ -13,5 +13,5 @@ tags:
   - Explotación de Computadoras
 ---
 
-![Portada](assets/images/Explotacion-Computadoras/Portada.png)
+![Portada](https://tryhackme.4kiing.net/assets/images/Explotacion-Computadoras/Portada.png)
 

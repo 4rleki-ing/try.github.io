@@ -13,5 +13,5 @@ tags:
   - Amenazas
 ---
 
-![Portada](assets/images/Emulacion-Amenazas/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Emulacion-Amenazas/Portada.jpg)
 

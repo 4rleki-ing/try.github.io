@@ -13,5 +13,5 @@ tags:
   - Criptografía
 ---
 
-![Portada](assets/images/Criptografia/Portada.jpg)
+![Portada](https://tryhackme.4kiing.net/assets/images/Criptografia/Portada.jpg)
 

@@ -13,5 +13,5 @@ tags:
   - Funcionamiento de la Web
 ---
 
-![Portada](assets/images/Funciona-Web/Portada.png)
+![Portada](https://tryhackme.4kiing.net/assets/images/Funciona-Web/Portada.png)
 
