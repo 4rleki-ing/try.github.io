@@ -5,7 +5,7 @@ excerpt: "Conozca los pasos que sigue un atacante justo después de obtener un p
 date: 2024-09-16
 classes: wide
 header:
-  teaser: https://tryhackme.4kiing.net/assets/images/Post-Compromiso/post.jpg
+  teaser: https://tryhackme.4kiing.net/assets/images/Post-Compromiso/Post.jpg
   teaser_home_page: true
 categories:
   - Lectura
