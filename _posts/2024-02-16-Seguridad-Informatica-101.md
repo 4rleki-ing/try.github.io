@@ -29,10 +29,10 @@ Este camino de aprendizaje es perfecto para cualquier persona que sea nueva en s
 
 ## Seccion 1
 Comience su viaje de seguridad Cibernetica
-1. TryWinMe: Piense en el monopolio cibernetico
-2. Introduccion a la Seguridad Ofensiva
-3. Introduccion a la Seguridad Defensiva
-4. Habilidades de busqueda
+1. [TryWinMe: Piense en el monopolio cibernetico]()
+2. [Introduccion a la Seguridad Ofensiva]()
+3. [Introduccion a la Seguridad Defensiva]()
+4. [Habilidades de busqueda]()
 
 ## Seccion 2
 Fundamentos de Linux
