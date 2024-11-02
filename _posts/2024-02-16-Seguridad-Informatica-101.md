@@ -10,7 +10,7 @@ header:
 categories:
   - Lectura
 tags:
-  - Gestión de eventos
+  - Seguridad Informatica 101
 ---
 
 ![Portada](https://tryhackme.4kiing.net/assets/images/Gestion-Eventos/Portada.jpg)
@@ -28,24 +28,27 @@ Este camino cubre los conceptos y aplicaciones fundamentales en lo siguiente:
 Este camino de aprendizaje es perfecto para cualquier persona que sea nueva en seguridad informatica o que desee actualizar sus conocomientos. Si es nuevo, es posibles que desee comenzar con el camino de seguridad previa.
 
 ## Seccion 1
-Comience su viaje de seguridad Cibernetica
+### Comience su viaje de seguridad Cibernetica
+Explore la ciberseguridad ofensiva y defensiva a través de ejercicios interactivos y adquiera las habilidades de búsqueda esenciales para encontrar información.
 1. [TryWinMe: Piense en el monopolio cibernetico]()
 2. [Introduccion a la Seguridad Ofensiva]()
 3. [Introduccion a la Seguridad Defensiva]()
 4. [Habilidades de busqueda]()
 
 ## Seccion 2
-Fundamentos de Linux
-1. Fundamentos de Linux - Parte 1
-2. Fundamentos de Linux - Parte 2
-3. Fundamentos de Linux - Parte 3
+### Fundamentos de Linux
+Muchos servidores y herramientas de seguridad utilizan Linux. Aprenda a utilizar el sistema operativo Linux, una habilidad fundamental en seguridad cibernética.
+1. [Fundamentos de Linux - Parte 1]()
+2. [Fundamentos de Linux - Parte 2]()
+3. [Fundamentos de Linux - Parte 3]()
 
 ## Seccion 3
-Fundamentos de Windows y AD
-1. Conceptos basicos de Windows 1
-2. Fundamentos de Windows 2
-3. Fundamentos de Windows 3
-4. Conceptos basicos de Directorio Activo
+### Fundamentos de Windows y AD
+Obtenga acceso práctico a Windows y sus controles de seguridad. Estos conceptos básicos le ayudarán a identificar, explotar y defender Windows.
+1. [Conceptos basicos de Windows 1]()
+2. [Fundamentos de Windows 2]()
+3. [Fundamentos de Windows 3]()
+4. [Conceptos basicos de Directorio Activo]()
 
 ## Seccion 4
 Linea de Comando
