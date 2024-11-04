@@ -9,94 +9,124 @@ header:
   teaser_home_page: true
 categories:
   - TryHackme
-  - Lectura
 tags:
-  - Módulos
-  - Salas
+  - Lectura
 ---
 
 ![Portada](https://tryhackme.4kiing.net/assets/images/Ruta-Aprendizaje/Portada.jpg)
 
-## Modulos
-- [Fundamentos de Linux]()
-- [Conceptos Básicos de Explotación de Redes]()
-- [Fundamentos de Hacking Web]()
-- [Criptografía]()
-- [Conceptos básicos de Explotación en Windows]()
-- [Shell y Escalada de Privilegios]()
-- [Explotación Informática Básica]()
-- [Gestión de Amenazas y Vulnerabilidades]()
-- [Operaciones de Seguridad y Monitoreo]()
-- [Emulación de Amenazas]()
-- [Respuesta a Incidentes y Análisis Forense]()
-- [Análisis de Malware]()
-- [Cómo funciona la Web]()
-- [Fundamentos de Red]()
-- [Introducción al Pentesting]()
-- [Burp Suite]()
-- [Investigación de Vulnerabilidades]()
-- [Metasploit]()
-- [Introducción al Hacking Web]()
-- [Seguridad de la red]()
-- [Nmap]()
-- [Escalada de Privilegios]()
-- [Acceso Inicial]()
-- [Phishing]()
-- [Concientización sobre la seguridad Cibernética]()
-- [Fundamentos de Red Team]()
-- [Introducción a la Seguridad Ofensiva]()
-- [Amenazas recientes]()
-- [Introducción a la Ciberseguridad]()
-- [Evasión de seguridad de la red]()
-- [Introducción a la Seguridad Defensiva]()
-- [Comprometer Active Directory]()
-- [Después del Compromiso]()
-- [Evasión del Host]()
-- [Frameworks de Ciberdefensa]()
-- [Wireshark]()
-- [Análisis Forense Digital y Respuesta a Incidentes]()
-- [Snort]()
-- [Inteligencia sobre amenazas Cibernéticas]()
-- [Monitoreo de Seguridad en Terminales]()
-- [Seguridad de Red y Análisis de tráfico]()
-- [Información de Seguridad y Gestión de Eventos]()
-- [Introducción a AWS]()
-- [Introducción a IAM]()
-- [Atacar y Defender Servicios Centrales]()
-- [Atacar y Defender sin Servidor]()
-- [Escalada de Privilegios en IAM]()
-- [Ingeniería de Detección]()
-- [Seguridad del Software]()
-- [Planificación y Alcance]()
-- [Herramientas y Análisis de Código]()
-- [Recopilación de Información y escaneo de vulnerabilidades]()
-- [Ataques y Exploits]()
-- [Introducción a la Ingeniería de Seguridad]()
-- [Amenazas y Riesgos]()
-- [Seguridad de Redes y Sistemas]()
-- [Gestión de Incidentes]()
-- [Análisis de Registros]()
-- [Splunk Avanzado]()
-- [ELK Avanzado]()
-- [Caza de Amenazas]()
-- [Emulación de Amenazas]()
-- [Respuesta a Incidentes]()
-- [Análisis de Malware]()
-- [Desarrollo de Software Seguro]()
-- [Misión Secundaria de AoC 2023]()
-- [Seguridad del Oleoducto]()
-- [Seguridad en el Oleoducto 2]()
-- [Infraestructura como Código]()
-- [Seguridad de Contenedores]()
-- [Contrabando de Solicitudes HTTP]()
-- [TryHack3M Especial]()
-- [Ataques Avanzados del  lado del cliente]()
-- [Ataques Avanzados del lado del Servidor]()
-- [Snyk]()
-- [Desafíos Finales de SOC 1]()
-- [Ataques de Inyección]()
-- [Investigación de Puntos Finales de Windows]()
-- [Endurecimiento de Kurbenetes]()
+## 1. Pre Seguridad
+Esta ruta de aprendizaje le enseñará los conocimientos técnicos previos para iniciarse en la ciberseguridad. Para atacar o defender cualquier tecnología, primero hay que aprender cómo funciona esta tecnología. La ruta de aprendizaje previa a la seguridad es una forma divertida y amigable para principiantes de aprender los conceptos básicos. ¡Su viaje de aprendizaje sobre seguridad cibernética comienza aquí!
 
-## Salas
-- []
+- `Introducción a la Ciberseguridad`
+  - [Introducción a la Seguridad Ofensiva]()
+  - [Introducción a la Seguridad Defensiva]()
+  - [Carreras en Ciberseguridad]()
+
+- `Fundamentos de la Red`
+  - [¿Qué es el networking?]()
+  - [Introducción a LAN]()
+  - [Modelo OSI]()
+  - [Paquetes y tramas]()
+  - [Ampliación de la Red]()
+
+- `Cómo funciona la Web`
+  - [DNS en detalle]()
+  - [HTTP en detalle]()
+  - [Cómo funcionan los sitios web]()
+  - [Poniéndolo todo junto]()
+
+- `Fundamentos de Linux`
+  - [Fundamentos de Linux - Parte 1]()
+  - [Fundamentos de Linux - Parte 2]()
+  - [Fundamentos de Linux - Parte 3]()
+
+- `Aspectos básicos de Windows`
+  - [Aspectos básicos de Windows 1]()
+  - [Aspectos básicos de Windows 2]()
+  - [Aspectos básicos de Windows 3]()
+
+
+## 2. Seguridad Cibernética 101
+Este camino para principiantes tiene como objetivo dar una introducción sólida a las diferentes áreas de la Seguridad Informática.
+
+- `Comience su viaje de Seguridad Cibernética`
+  - [TryWinMe: Piensa en el Monopolio Cibernético]()
+  - [Introducción a la Seguridad Ofensiva]()
+  - [Introducción a la Seguridad Defensiva]()
+  - [Habilidades de búsqueda]()
+
+- `Fundamentos de Linux`
+  - [Fundamentos de Linux - Parte 1]()
+  - [Fundamentos de Linux - Parte 2]()
+  - [Fundamentos de Linux - Parte 3]()
+
+- `Aspectos básicos de Windows y AD`
+  - [Aspectos básicos de Windows 1]()
+  - [Aspectos básicos de Windows 2]()
+  - [Aspectos básicos de Windows 3]()
+  - [Conceptos básicos de Active Directory]()
+
+- `Línea de Comandos`
+  - [Línea de Comandos de Windows]()
+  - [Windows PowerShell]()
+  - [Linux Shells]()
+
+- `Gestión de redes`
+  - [Conceptos de redes]()
+  - [Elementos esenciales de la red]()
+  - [Protocolos principales de red]()
+  - [Protocolos seguros de red]()
+  - [WireShark:: Básico]()
+  - [Tcpdump: Básico]()
+  - [Nmap: Básico]()
+
+- `Criptografía`
+  - [Conceptos básicos de criptografía]()
+  - [Conceptos básicos de criptografía de clave pública]()
+  - [Conceptos básicos de hashing]()
+  - [John the Ripper: Básico]()
+
+- `Conceptos básicos de Explotación`
+  - []
+  - []
+  - []
+  - []
+  - []
+
+- `Hackeo Web`
+  - []
+  - []
+  - []
+  - []
+  - []
+
+- `Herramientas de Seguridad Ofensiva`
+  - []
+  - []
+  - []
+  - []
+
+- `Seguridad Defensiva`
+  - []
+  - []
+  - []
+  - []
+  - []
+
+- `Soluciones de Seguridad`
+  - []
+  - []
+  - []
+  - []
+
+- `Herramientas de seguridad defensiva`
+  - []
+  - []
+  - []
+  - []
+
+- `Desarrolle su carrera en Seguridad Cibérnetica`
+  - []
+  - []
+  - []
