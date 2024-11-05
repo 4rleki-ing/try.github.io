@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cyber4rlekiing | Ciberseguridad"
+title                    : "TryHackMe | Cyber4rlekiing"
 title_separator          : "-"
 name                     : "4rlekiing"
-description              : "Artículos sobre ciberseguridad e investigaciones"
+description              : "Repositorio de la plataforma TryHackMe."
 url                      : "https://tryhackme.4kiing.net/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "4rleki-ing/4rleki-ing.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
