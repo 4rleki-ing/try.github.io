@@ -28,3 +28,10 @@ Y ¡oh! ¡Casi se me olvida! - Necesitarás lo siguiente:
 ### Responda las siguientes preguntas
 > ¿Cuál es el número de teléfono de Tyrell Wellick?
 > **
+Vaya un paso más allá y comprometa la máquina.
+
+>¿Qué es la bandera user.txt?
+> 
+
+> ¿Qué es la bandera root.txt?
+> 
