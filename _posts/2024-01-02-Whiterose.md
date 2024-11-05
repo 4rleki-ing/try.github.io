@@ -25,6 +25,10 @@ Y ¡oh! ¡Casi se me olvida! - Necesitarás lo siguiente:
   <img src="/assets/images/Whiterose/Mundo.png">
 </center>
 
+# Proceso
+## 1. Escaneo Nmap
+Se realiza un escaneo normal a la direción IP, en esta ocasión mi dirección objetivo es ``.
+
 ### Responda las siguientes preguntas
 > ¿Cuál es el número de teléfono de Tyrell Wellick?
 > **
