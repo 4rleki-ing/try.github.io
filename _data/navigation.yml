@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: /
+    url: https://www.4kiing.net/
   - title: "Artículos"
     url: /year-archive/
   - title: "Categorías"
