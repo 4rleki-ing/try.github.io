@@ -1,0 +1,30 @@
+---
+layout: single
+title: Rosa Blanca
+excerpt: "Otro desafío temático de Mr. Robot."
+date: 2024-10-20
+classes: wide
+header:
+  teaser: https://tryhackme.4kiing.net/assets/images/Whiterose/logo.png
+  teaser_home_page: true
+categories:
+  - TryHackme
+tags:
+  - Desafío
+---
+
+# Bienvenidos a Whiterose
+Este desafío está basado en el episodio "409 Conflict" de Mr. Robot. ¡Contiene spoilers!
+Continúe y encienda la máquina, puede tardar unos minutos en arrancar por completo.
+Y ¡oh! ¡Casi se me olvida! - Necesitarás lo siguiente: 
+
+- `User`: Olivia Cortez
+- `Pass`: olivi8
+
+<center>
+  <img src="/assets/images/Whiterose/Mundo.png">
+</center>
+
+### Responda las siguientes preguntas
+> ¿Cuál es el número de teléfono de Tyrell Wellick?
+> **
