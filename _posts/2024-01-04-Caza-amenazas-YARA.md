@@ -13,6 +13,7 @@ tags:
   - Tutorial
 ---
 
+![Portada](https://tryhackme.4kiing.net/assets/images/Yara/Portada.jpeg)
 
 # Introducción
 Esta sala tiene como objetivo demostrar una aplicación activa de la caza de amenazas con un enfoque específico en el uso de las *reglas YARA* para buscar `indicadores de compromiso (IOC)` relacionados con el malware. Utilizaremos un escenario realista como el cable rojo en toda esta habitación.
