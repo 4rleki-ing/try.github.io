@@ -18,7 +18,10 @@ tags:
 Esta sala tiene como objetivo demostrar una aplicación activa de la caza de amenazas con un enfoque específico en el uso de las *reglas YARA* para buscar `indicadores de compromiso (IOC)` relacionados con el malware. Utilizaremos un escenario realista como el cable rojo en toda esta habitación.
 
 ```text
-    El indicador de compromiso es un artefacto forense observado en una red o en un sistema operativo que, con alta confianza, indica una intrusión informática.
+IOC:
+
+    El indicador de compromiso es un artefacto forense observado en una red o en un sistema operativo que, 
+con alta confianza, indica una intrusión informática.
 ```
 
 ## Objetivos de aprendizaje
@@ -30,19 +33,21 @@ Esta sala tiene como objetivo demostrar una aplicación activa de la caza de ame
 ## Prerrequisitos
 - Se recomienda haber completado la sala de [Threat Hunting](https://tryhackme.com/r/room/introductiontothreathunting). Esa sala incluye múltiples conceptos y terminologías utilizadas en toda nuestra sala actual.
 - Comprensión básica de los conceptos de seguridad, incluidos, entre otros, [Cyber Kill Chain](https://tryhackme.com/r/room/cyberkillchainzmt), TTP, Indicator of Compromise, Hashes y APT.
-- Conocimientos básicos sobre el uso de la línea de comandos de Windows y PowerShell.
+- Conocimientos básicos sobre el uso de la línea de comandos de Windows y `PowerShell`.
 - Conocimientos básicos de los tipos de datos y la codificación.
 
 ```text
-    PowerShell es un programa de automatización de tareas y administración de configuración de Microsoft, que consta de un shell de línea de comandos y el 
-lenguaje de scripting asociado.
+PowerShell:
+    
+    PowerShell es un programa de automatización de tareas y administración de configuración de Microsoft, 
+que consta de un shell de línea de comandos y el lenguaje de scripting asociado.
 ```
 
 **Dislaimer:** Utilizaremos un escenario real como cable rojo a lo largo de esta sala. Todas las direcciones URL y los archivos a los que se hace referencia son maliciosos y no deben abrirse fuera de un entorno aislado.
 
 ### Responda las siguientes preguntas
-> ¿Estás listo para cazar malware?
-
+>- ¿Estás listo para cazar malware?
+<hr>
 
 # Descripción del escenario
 Nuestro equipo de caza de amenazas forma parte del CSIRT nacional de Bélgica. Trabajamos en estrecha colaboración con los equipos de inteligencia de amenazas cibernéticas y respuesta a incidentes para adelantarnos a las numerosas amenazas dirigidas a nuestros constituyentes. Una categoría principal de nuestros electores son los partidos políticos.
