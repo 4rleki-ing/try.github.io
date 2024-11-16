@@ -1,14 +1,12 @@
 main:
   - title: "Home"
     url: https://www.4kiing.net/
-  - title: "Artículos"
-    url: /year-archive/
+  - title: "TryHackMe"
+    url: https://tryhackme.4kiing.net/
   - title: "Categorías"
     url: /categories/
   - title: "Etiquetas"
     url: /tags/
-  - title: "Vídeos"
-    url: /videos/
   - title: "Buscador"
     url: /buscador/
   - title: "Contacto"
