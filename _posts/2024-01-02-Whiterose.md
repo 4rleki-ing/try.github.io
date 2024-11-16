@@ -2,7 +2,7 @@
 layout: single
 title: Rosa Blanca
 excerpt: "Otro desafío temático de Mr. Robot."
-date: 2024-10-20
+date: 2024-11-14
 classes: wide
 header:
   teaser: https://tryhackme.4kiing.net/assets/images/Whiterose/logo.png
