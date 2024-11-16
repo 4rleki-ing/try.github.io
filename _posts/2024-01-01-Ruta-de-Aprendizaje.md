@@ -2,7 +2,7 @@
 layout: single
 title: Hoja de Ruta de Aprendizaje
 excerpt: "Desde los principios fundamentales hasta las técnicas avanzadas, esta hoja de ruta proporciona pasos claros y recursos esenciales para ayudarle a desarrollar un conjunto sólido de habilidades."
-date: 2024-10-21
+date: 2024-11-15
 classes: wide
 header:
   teaser: https://tryhackme.4kiing.net/assets/images/Ruta-Aprendizaje/Ruta.jpeg
